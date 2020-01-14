@@ -1,0 +1,68 @@
+ 51  git status
+   52  git add .
+   53  git status
+   54  vi hello.c
+   55  git status
+   56  git add .
+   57  git status
+   58  git commit -m  "first commit"
+   59  git status
+   60  commit log
+   61  git log
+   62  git commit -m  "first commit"
+   63  git config  --global
+   64  git config  --global user.name "Amangupta723"
+   65  git config  --global user.email "aman.mannni.gupta@gmail.com"
+   66  git commit -m  "first commit"
+   67  git status
+   68  git log
+   69  git remote add origin git@github.com:AmanGupta723/gitsample.git
+   70  git remote
+   71  git remote add origin https://github.com/AmanGupta723/gitsample.git
+   72  git remote add origin https://github.com/AmanGupta723/gitsample.git
+   73  git remote add origin https://github.com/AmanGupta723/gitsample.git
+   74  git remote add origin https://github.com/AmanGupta723/gitsample.git
+   75  git remote
+   76  git push -u origin master
+   77  vi hello.c
+   78  git add .
+   79  git status
+   80  git push -u origin master
+   81  git commit -m  "first commit"
+   82  git status
+   83  git push -u origin master
+   84  git log
+   85  history
+   86  git branch
+   87  cd ..
+   88  git clone https://github.com/srabhayraj/Minor_1.git
+   89  git clone https://github.com/srabhayraj/Minor_1.git
+   90  cd gitsample/
+   91  git clone https://github.com/srabhayraj/Minor_1.git
+   92  git clone https://github.com/srabhayraj/Minor_1.git
+   93  git branch https://github.com/srabhayraj/Minor_1.git
+   94  mkdir minor_2
+   95  cd minor_2
+   96  git init
+   97  git remote add  https://github.com/srabhayraj/Minor_1.git
+   98  git remote add origin https://github.com/srabhayraj/Minor_1.git
+   99  git branch aman
+  100  git clone https://github.com/srabhayraj/Minor_1.git
+  101  ls
+  102  cd Minor_1/
+  103  ls
+  104  git branch aman
+  105  git checkout aman
+  106  vi file2_aman.c
+  107  git commmit -m " checking"
+  108  git commit -m " checking"
+  109  git status
+  110  git add .
+  111  git commit -m " checking"
+  112  git status
+  113  ls
+  114  git commit -m " checking"
+  115  git status
+  116  git log
+  117  git push -u origin aman
+
